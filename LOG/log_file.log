@@ -1,0 +1,6 @@
+# 28.12.2024
+Traceback (most recent call last):
+  File "/home/nerc/Documents/solcast/FMI_linux/main.py", line 300, in <module>
+    with open(file_path, 'w') as f:
+         ^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/home/nerc/output/weatherPrediction_EduCity_2024.csv'
